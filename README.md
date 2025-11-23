@@ -1,5 +1,5 @@
 ## merhaba ben emre 👋
-src="ornek.jpg" alt="Örnek Resim"/>. hight 50
+src="ornek.jpg" alt="Örnek Resim"/>. "hight 50px"
 
 
 
