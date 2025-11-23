@@ -1,4 +1,4 @@
-## jnfdlgnfdngdf 👋
+## merhaba ben emre 👋
 
 
 **gokceozemre2007-glitch/gokceozemre2007-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
