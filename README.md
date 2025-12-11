@@ -2,7 +2,7 @@
 
  <img src=" <img src="https://loudbench.com/wp-content/uploads/2023/02/Python-logo-1024x576.png"/> 
 
-<img src=" <img src="resimler/Ekran Alıntısı.PNG"/>
+<img src=" <img src="resimler/ekran görüntüsü.png"/>
 
 
 
